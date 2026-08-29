@@ -1,0 +1,13 @@
+{
+  "name": "Moe Kyaw Aung — Senior Mobile / Android Engineer",
+  "short_name": "MOE KYAW AUNG",
+  "description": "I build premium Android experiences that stay fast, stable, and scalable.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04060a",
+  "theme_color": "#04060a",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/avatar.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}

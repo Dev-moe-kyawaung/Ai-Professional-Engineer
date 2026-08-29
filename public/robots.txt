@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# MOE KYAW AUNG — Senior Mobile / Android Engineer
+# Tachileik, Myanmar · https://gravatar.com/moekyawaung2026
